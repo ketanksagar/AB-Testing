@@ -3,6 +3,9 @@
 This project evaluates the effectiveness of a creative, interactive online advertisement for the SmartAd brand by comparing it to a standard control ad.  
 The goal is to determine whether the creative ad leads to higher user engagement.  
 
+## Dataset
+Check out my Dataset [here](https://www.kaggle.com/datasets/osuolaleemmanuel/ad-ab-testing/data).
+
 ### Key Findings  
 
 - User Interaction: Users interacted more with interactive ads, with higher frequencies of "yes" or "no" responses.
